@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👩‍💻 Sobre mim
 
-<!--
-**carolinapradosp/carolinapradosp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou **Carolina**, desenvolvedora front-end com mais de 10 anos de experiência em desenvolvimento web.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:**
+  - HTML, CSS, LESS, Bootstrap
+  - JavaScript, jQuery, KnockoutJS
+  - React, Style Componnents, Hooks, Context API
+
+- **Banco de dados:**
+  - MySQL, PostgreSQL
+
+## 🛠️ Outras habilidades
+
+- Registro de domínio, configuração de DNS e publicação via FTP
+- Ferramentas de design: Photoshop, Illustrator, Figma
+- Implementação de layouts e e-commerces:
+  - Oracle Commerce Cloud
+  - WordPress/WooCommerce
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/carolinaprado/)
+[![E-mail](https://img.shields.io/badge/-Email-red?style=flat-square&color=f57f20&logo=live)](mailto:carolina.prado@live.com)
