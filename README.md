@@ -1,6 +1,6 @@
 # 👩‍💻 Sobre mim
 
-Olá! Sou **Carolina**, desenvolvedora front-end com mais de 10 anos de experiência em desenvolvimento web.
+Oi! Eu sou a **Carolina**, desenvolvedora front-end com mais de 10 anos de experiência em desenvolvimento web.
 
 ## 🚀 Tecnologias
 
