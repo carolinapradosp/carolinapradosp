@@ -5,9 +5,7 @@ Oi! Eu sou a **Carolina**, desenvolvedora front-end com mais de 10 anos de exper
 ## 🚀 Tecnologias
 
 - **Frontend:**
-  - HTML, CSS, LESS, Bootstrap
-  - JavaScript, jQuery, KnockoutJS
-  - React, Style Componnents, Hooks, Context API
+  - HTML, CSS, LESS, Bootstrap, Tailwind, JavaScript, NEXT, React, Style Componnents, Hooks, Context API, API REST
 
 - **Banco de dados:**
   - MySQL, PostgreSQL
