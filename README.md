@@ -1,6 +1,6 @@
 # 👩‍💻 Sobre mim
 
-Oi! Eu sou a **Carolina**, desenvolvedora front-end com mais de 10 anos de experiência em desenvolvimento web.
+Oi! Eu sou a **Carolina**, desenvolvedora front-end com mais de 15 anos de experiência em desenvolvimento web.
 
 ## 🚀 Tecnologias
 
@@ -8,7 +8,7 @@ Oi! Eu sou a **Carolina**, desenvolvedora front-end com mais de 10 anos de exper
   - HTML, CSS, LESS, Bootstrap, Tailwind, JavaScript, NEXT, React, Style Componnents, Hooks, Context API, API REST
 
 - **Banco de dados:**
-  - MySQL, PostgreSQL
+  - MySQL, PostgreSQL, No
 
 ## 🛠️ Outras habilidades
 
@@ -17,6 +17,7 @@ Oi! Eu sou a **Carolina**, desenvolvedora front-end com mais de 10 anos de exper
 - Implementação de layouts e e-commerces:
   - Oracle Commerce Cloud
   - WordPress/WooCommerce
+  - Shopify
 
 ## 📬 Contato
 
