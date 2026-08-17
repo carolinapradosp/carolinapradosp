@@ -8,7 +8,7 @@ Oi! Eu sou a **Carolina**, desenvolvedora front-end com mais de 15 anos de exper
   - HTML, CSS, LESS, Bootstrap, Tailwind, JavaScript, NEXT, React, Style Componnents, Hooks, Context API, API REST
 
 - **Banco de dados:**
-  - MySQL, PostgreSQL, No
+  - MySQL, PostgreSQL, NoSQL
 
 ## 🛠️ Outras habilidades
 
